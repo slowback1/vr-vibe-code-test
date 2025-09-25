@@ -1,0 +1,6 @@
+{
+  "dependencies": {},
+  "testables": [
+    "com.unity.xr.interaction.toolkit"
+  ]
+}
